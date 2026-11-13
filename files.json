@@ -10,6 +10,15 @@
       "ext": "ZIP",
       "url": "files/Core225Games.zip",
       "c": "#3dffc0"
+    },
+    {
+      "name": "Moonlit Hooded Noir",
+      "desc": "تستی",
+      "cat": "عمومی",
+      "size": "1.9 MB",
+      "ext": "PNG",
+      "url": "files/Moonlit%20Hooded%20Noir.png",
+      "c": "#8a7bff"
     }
   ]
 }
